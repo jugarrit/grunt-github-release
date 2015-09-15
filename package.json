@@ -1,0 +1,25 @@
+{
+  "name": "grunt-github-release",
+  "version": "0.1.0",
+  "description": "Grunt task to create a github release",
+  "engines": {
+    "node": ">=0.10"
+  },
+  "keywords": [
+    "gruntplugin",
+    "release",
+    "git"
+  ],
+  "author": "Julian Garritano",
+  "dependencies": {
+    "q": "^1.4.1",
+    "superagent": "^1.2.0",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  },
+  "peerDependencies": {
+    "grunt": "^0.4.1"
+  }
+}
